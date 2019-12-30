@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "isAvailable: "true",
+      "lat": 0.000911,
+      "lng":0.009116
+    },
+    {
+      "id": 2,
+      "isAvailable: "true",
+      "lat": 0.000078,
+      "lng":0.007408
+    },
+    {
+      "id": 3,
+      "isAvailable: "true",
+      "lat": 0.000903,
+      "lng":0.007408
+    },
+    {
+      "id": 4,
+      "isAvailable: "true",
+      "lat": 0.000108,
+      "lng":0.005271
+    }
+  ]
+}
